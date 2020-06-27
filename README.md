@@ -4,6 +4,8 @@
 
 <p id="intro"><strong>欢迎光临</strong>维多利亚州莫宁顿半岛玛莎山皇冠👑赌场</p>
 
+<style>
 #intro {background-color: lightgreen;}
+</style>
 
 </html>
