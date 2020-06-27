@@ -1,2 +1,12 @@
-# simoncasino
-<h1>Welcome to 莫宁顿报道皇冠赌场</h1>
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<h1>Welcome to Casino</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
