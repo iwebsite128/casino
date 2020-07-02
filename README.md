@@ -35,9 +35,9 @@ margin-left:300px;
 .mr-woolworths{
 width:300px;
 height:100px;
-padding: 50px;
+padding: auto;
 background:red;
-margin-top:0px;
+margin:50px;
 font-size:25px;
 
 }
@@ -48,7 +48,7 @@ height:100px;
 padding: 50px;
 background:white;
 font-size:25px;
-margin-left:400px;
+margin:400px;
 margin-top:-200px;
 }
 
