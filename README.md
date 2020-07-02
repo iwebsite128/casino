@@ -14,16 +14,20 @@
 <a href="https://www.coles.com.au/catalogues-and-specials">点击这里打开链接</a>
 </div>
 
-
+<div class="mr-aldi">aldi超市官网站
+<br>
+<a href="https://www.aldi.com.au/en/special-buys/">点击这里打开链接</a>
+</div>
 
 
 <style>
 
 #mr-content{
-width:1000px;
-height:390px;
+width:1100px;
+height:600px;
 background:yellow;
 border:3px solid red;
+text-align: center;
 }
 
 .mr-title{
@@ -42,10 +46,25 @@ font-size:25px;
 }
 
 .mr-coles{
+position: relative;
+left:350px;
+bottom:150px;
 width:300px;
 height:100px;
 padding: auto;
 background:red;
+margin:50px;
+font-size:25px;
+}
+
+.mr-aldi{
+position: relative;
+left:700px;
+bottom:300px;
+width:300px;
+height:100px;
+padding: auto;
+background: #87CEFA;
 margin:50px;
 font-size:25px;
 }
