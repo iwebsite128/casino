@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <body>
@@ -16,7 +15,7 @@
 </div>
 
 
-</body>
+
 
 <style>
 
@@ -52,4 +51,3 @@ font-size:25px;
 }
 
 </style>
-</html>
