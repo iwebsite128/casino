@@ -36,7 +36,7 @@ margin-left:300px;
 width:300px;
 height:100px;
 padding: 50px;
-background:white;
+background:red;
 margin-top:50px;
 font-size:25px;
 
