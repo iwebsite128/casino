@@ -36,7 +36,7 @@ margin-left:300px;
 width:300px;
 height:100px;
 padding: auto;
-background:red;
+background:green;
 margin:50px;
 font-size:25px;
 
@@ -45,11 +45,10 @@ font-size:25px;
 .mr-coles{
 width:300px;
 height:100px;
-padding: 50px;
-background:white;
+padding: auto;
+background:red;
+margin:50px;
 font-size:25px;
-margin:400px;
-margin-top:-200px;
 }
 
 </style>
