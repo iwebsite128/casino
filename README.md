@@ -31,8 +31,8 @@ text-align: center;
 }
 
 .mr-title{
+text-align:center;
 font-size:30px;
-margin-left:300px;
 }
 
 .mr-woolworths{
