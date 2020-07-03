@@ -20,9 +20,14 @@
 <a href="https://www.aldi.com.au/en/special-buys/">点击这里打开链接</a>
 </div>
 
-<div class="mr-bunnings">bunnings木材取暖器官网
+<div class="mr-bunnings">bunnings取暖器官网
 <br>
 <a href="https://www.bunnings.com.au/our-range/outdoor-living/outdoor-heating/wood">点击这里打开链接</a>
+</div>
+
+<div class="mr-bunnings-accessories">bunnings取暖器配件官网
+<br>
+<a href="https://www.bunnings.com.au/our-range/outdoor-living/outdoor-heating/accessories">点击这里打开链接</a>
 </div>
 
 <div class="mr-covid19">维省疫情地区分布图：
@@ -90,7 +95,20 @@ bottom:300px;
 width:300px;
 height:100px;
 padding: auto;
-background: #87CEFA;
+background: #00FF00;
+color:white;
+margin:50px;
+font-size:25px;
+}
+
+.mr-bunnings-accessories{
+position: relative;
+left:350px;
+bottom:450px;
+width:300px;
+height:100px;
+padding: auto;
+background: #00FF00;
 color:white;
 margin:50px;
 font-size:25px;
@@ -99,7 +117,7 @@ font-size:25px;
 .mr-covid19{
 position: relative;
 left:0px;
-bottom:300px;
+bottom:450px;
 width:300px;
 height:100px;
 padding: auto;
