@@ -25,8 +25,6 @@
 <a href="https://www.dhhs.vic.gov.au/coronavirus-update-victoria-2-july-2020">点击这里打开链接</a>
 </div>
 
-
-
 <style>
 
 
@@ -49,9 +47,9 @@ width:300px;
 height:100px;
 padding: auto;
 background:green;
+color:white;
 margin:50px;
 font-size:25px;
-
 }
 
 .mr-coles{
@@ -62,6 +60,7 @@ width:300px;
 height:100px;
 padding: auto;
 background:red;
+color:white;
 margin:50px;
 font-size:25px;
 }
@@ -74,7 +73,9 @@ width:300px;
 height:100px;
 padding: auto;
 background: #87CEFA;
+color:white;
 margin:50px;
+font-size:25px;
 }
 
 .mr-covid19{
