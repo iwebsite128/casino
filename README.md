@@ -20,9 +20,9 @@
 <a href="https://www.aldi.com.au/en/special-buys/">点击这里打开链接</a>
 </div>
 
-<div class="mr-covid19">维省疫情分布图：
+<div class="mr-covid19">维省疫情地区分布图：
 <br>
-<a href="https://www.dhhs.vic.gov.au/coronavirus-update-victoria-2-july-2020">点击这里打开链接</a>
+<a href="https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19">点击这里打开链接</a>
 </div>
 
 <style>
