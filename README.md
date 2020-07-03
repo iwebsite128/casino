@@ -4,6 +4,7 @@
 
 <div id="mr-content">
 <div class="mr-title">欢迎来到华人万能网</div>
+<div class="mr-ty"><p>如果你喜欢本网站，请打赏蛇蛇🐍一包，谢谢</p></div>
 <div class="mr-woolworths">woolworths超市官网站
 <br>
 <a href="https://www.woolworths.com.au/shop/catalogue">点击这里打开链接</a>
@@ -24,7 +25,11 @@
 <a href="https://www.dhhs.vic.gov.au/coronavirus-update-victoria-2-july-2020">点击这里打开链接</a>
 </div>
 
+
+
 <style>
+
+
 
 #mr-content{
 width:1100px;
