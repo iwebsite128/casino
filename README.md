@@ -45,7 +45,7 @@
 #mr-content{
 width:1100px;
 height:900px;
-background:white;
+background:yellow;
 border:3px solid red;
 text-align: center;
 }
