@@ -19,6 +19,10 @@
 <a href="https://www.aldi.com.au/en/special-buys/">点击这里打开链接</a>
 </div>
 
+<div class="mr-covid19">维省疫情分布图：
+<br>
+<a href="https://www.dhhs.vic.gov.au/coronavirus-update-victoria-2-july-2020">点击这里打开链接</a>
+</div>
 
 <style>
 
@@ -65,6 +69,18 @@ width:300px;
 height:100px;
 padding: auto;
 background: #87CEFA;
+margin:50px;
+}
+
+.mr-covid19{
+position: relative;
+left:0px;
+bottom:300px;
+width:300px;
+height:100px;
+padding: auto;
+background: #9400D3;
+color:white;
 margin:50px;
 font-size:25px;
 }
