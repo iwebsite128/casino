@@ -3,8 +3,11 @@
 <body>
 
 <div id="mr-content">
-<div class="mr-title">欢迎来到华人万能网</div>
-<div class="mr-ty"><p>如果你喜欢本网站，请打赏蛇蛇🐍一包，谢谢</p></div>
+<div class="mr-title">欢迎来到澳洲华人资讯网</div>
+<div class="mr-woolworths">墨尔本气象预报
+<br>
+<a href="https://tw.news.yahoo.com/weather/%E6%BE%B3%E6%B4%B2/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E/%E5%A2%A8%E7%88%BE%E6%9C%AC-1103816/">点击这里打开链接</a>
+</div>
 <div class="mr-woolworths">woolworths超市官网站
 <br>
 <a href="https://www.woolworths.com.au/shop/catalogue">点击这里打开链接</a>
@@ -41,8 +44,8 @@
 
 #mr-content{
 width:1100px;
-height:600px;
-background:yellow;
+height:900px;
+background:white;
 border:3px solid red;
 text-align: center;
 }
@@ -56,7 +59,7 @@ font-size:30px;
 width:300px;
 height:100px;
 padding: auto;
-background:green;
+background:red;
 color:white;
 margin:50px;
 font-size:25px;
@@ -116,8 +119,8 @@ font-size:25px;
 
 .mr-covid19{
 position: relative;
-left:0px;
-bottom:450px;
+left:350px;
+bottom:900px;
 width:300px;
 height:100px;
 padding: auto;
