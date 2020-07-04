@@ -38,7 +38,7 @@
 <a href="https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19">点击这里打开链接</a>
 </div>
 
-<img src="flinders.jpg">
+<img src="flinders.jpg" height="100" width"100">
 
 <style>
 
