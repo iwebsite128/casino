@@ -10,10 +10,11 @@
 <img src="flinders.jpg" height="200" width="200" >
 <img src="flinders2.jpg" height="200" width="200" >
 <img src="flinder3.jpg" height="200" width="200" >
-<img src="flinders4.jpg" height="200" width="200" >
+
 </div>
 
-<img src="flinders5.jpg" height="200" width="200" >
+<img src="flinders4.jpg" height="200" width="200" align:"middle">
+<img src="flinders5.jpg" height="200" width="200" align:"middle" >
 
 <div class="mr-weather">墨尔本气象预报
 <br>
