@@ -18,24 +18,24 @@
 <br>
 <a href="https://tw.news.yahoo.com/weather/%E6%BE%B3%E6%B4%B2/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E/%E5%A2%A8%E7%88%BE%E6%9C%AC-1103816/">点击这里打开链接</a>
 </div>
-<div class="mr-woolworths">woolworths超市官网站
+<div class="mr-woolworths">woolworths超市官方网站
 <br>
 <a href="https://www.woolworths.com.au/shop/catalogue">点击这里打开链接</a>
 </div>
 
-<div class="mr-coles">coles超市官网站
+<div class="mr-coles">coles超市官方网站
 <br>
 <a href="https://www.coles.com.au/catalogues-and-specials">点击这里打开链接</a>
 </div>
 
-<div class="mr-aldi">aldi超市官网站
+<div class="mr-aldi">aldi超市官方网站
 <br>
 <a href="https://www.aldi.com.au/en/special-buys/">点击这里打开链接</a>
 </div>
 
-<div class="mr-bunnings">bunnings取暖器官网
+<div class="mr-iga">iga超市官方网网
 <br>
-<a href="https://www.bunnings.com.au/our-range/outdoor-living/outdoor-heating/wood">点击这里打开链接</a>
+<a href="https://www.iga.com.au/catalogue/#view=catalogue2&saleId=33656&areaName=IGA%20VIC%20Supa&page=1">点击这里打开链接</a>
 </div>
 
 <div class="mr-target">target官网
@@ -140,7 +140,7 @@ margin:50px;
 font-size:25px;
 }
 
-.mr-bunnings{
+.mr-iga{
 position: relative;
 left:50px;
 bottom:300px;
