@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="flinders.jpg" height="200" width="200" align="middle">
+<img src="flinders.jpg" height="200" width="200" >
 <img src="flinders2.jpg" height="200" width="200" align="middle">
 <img src="flinder3.jpg" height="200" width="200" align="middle">
 <img src="flinders4.jpg" height="200" width="200" align="middle">
