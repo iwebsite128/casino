@@ -9,6 +9,7 @@
 <div id="mr-flinders">
 <img src="flinders.jpg" height="200" width="200" >
 <img src="flinders2.jpg" height="200" width="200" >
+<img src="flinders3.jpg" height="200" width="200" >
 </div>
 
 <div class="mr-weather">墨尔本气象预报
