@@ -40,7 +40,7 @@
 
 <div class="mr-target">target官网
 <br>
-<a href="hhttps://www.target.com.au/">点击这里打开链接</a>
+<a href="https://www.target.com.au/">点击这里打开链接</a>
 </div>
 
 <div class="mr-kmart">kmart官网
