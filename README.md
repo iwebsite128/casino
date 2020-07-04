@@ -45,7 +45,7 @@
 
 <div class="mr-kmart">kmart官网
 <br>
-<a href="hhttps://www.target.com.au/">点击这里打开链接</a>
+<a href="https://www.kmart.com.au/">点击这里打开链接</a>
 </div>
 
 <div class="mr-covid19">维省疫情地区分布图：
