@@ -38,9 +38,14 @@
 <a href="https://www.bunnings.com.au/our-range/outdoor-living/outdoor-heating/wood">点击这里打开链接</a>
 </div>
 
-<div class="mr-bunnings-accessories">bunnings取暖器配件官网
+<div class="mr-target">target官网
 <br>
-<a href="https://www.bunnings.com.au/our-range/outdoor-living/outdoor-heating/accessories">点击这里打开链接</a>
+<a href="hhttps://www.target.com.au/">点击这里打开链接</a>
+</div>
+
+<div class="mr-kmart">kmart官网
+<br>
+<a href="hhttps://www.target.com.au/">点击这里打开链接</a>
 </div>
 
 <div class="mr-covid19">维省疫情地区分布图：
@@ -73,16 +78,33 @@ font-size:30px;
 }
 
 .mr-weather{
-width:300px;
+position: relative;
+left:90px;
+width:400px;
 height:100px;
 padding: auto;
 background:#1589FF;
-color:red;
+color:white;
+margin:50px;
+font-size:25px;
+}
+
+.mr-covid19{
+position: relative;
+left:600px;
+bottom:1050px;
+width:400px;
+height:100px;
+padding: auto;
+background: #9400D3;
+color:white;
 margin:50px;
 font-size:25px;
 }
 
 .mr-woolworths{
+position: relative;
+left:50px;
 width:300px;
 height:100px;
 padding: auto;
@@ -94,7 +116,7 @@ font-size:25px;
 
 .mr-coles{
 position: relative;
-left:350px;
+left:400px;
 bottom:150px;
 width:300px;
 height:100px;
@@ -107,7 +129,7 @@ font-size:25px;
 
 .mr-aldi{
 position: relative;
-left:700px;
+left:750px;
 bottom:300px;
 width:300px;
 height:100px;
@@ -120,7 +142,7 @@ font-size:25px;
 
 .mr-bunnings{
 position: relative;
-left:0px;
+left:50px;
 bottom:300px;
 width:300px;
 height:100px;
@@ -131,9 +153,9 @@ margin:50px;
 font-size:25px;
 }
 
-.mr-bunnings-accessories{
+.mr-target{
 position: relative;
-left:350px;
+left:400px;
 bottom:450px;
 width:300px;
 height:100px;
@@ -144,17 +166,19 @@ margin:50px;
 font-size:25px;
 }
 
-.mr-covid19{
+.mr-kmart{
 position: relative;
-left:350px;
-bottom:900px;
+left:750px;
+bottom:600px;
 width:300px;
 height:100px;
 padding: auto;
-background: #9400D3;
+background: #00FF00;
 color:white;
 margin:50px;
 font-size:25px;
 }
+
+
 
 </style>
