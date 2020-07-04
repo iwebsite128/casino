@@ -8,11 +8,11 @@
 
 <br>
 
-<img src="flinders.jpg" height="200" width="200" align="middle">
-<img src="flinders2.jpg" height="200" width="200" align="middle">
-<img src="flinder3.jpg" height="200" width="200" align="middle">
-<img src="flinders4.jpg" height="200" width="200" align="middle">
-<img src="flinders5.jpg" height="200" width="200" align="middle">
+<img src="flinders.jpg" height="300" width="300" align="middle">
+<img src="flinders2.jpg" height="300" width="300" align="middle">
+<img src="flinders3.jpg" height="300" width="300" align="middle">
+<img src="flinders4.jpg" height="300" width="300" align="middle">
+<img src="flinders5.jpg" height="300" width="300" align="middle">
 
 <div class="mr-weather">墨尔本气象预报
 <br>
@@ -55,7 +55,7 @@
 
 
 #mr-content{
-width:1100px;
+width:1500px;
 height:900px;
 background:yellow;
 border:3px solid red;
