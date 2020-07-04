@@ -2,7 +2,9 @@
 
 <body>
 
+<div id="mr-fliinder">
 <img src="flinders.jpg" height="100" width="100">
+</div>
 
 <div id="mr-content">
 <div class="mr-title">欢迎来到澳洲华人资讯网</div>
