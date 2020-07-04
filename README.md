@@ -4,7 +4,7 @@
 
 <div id="mr-content">
 <div class="mr-title">欢迎来到澳洲华人资讯网</div>
-<div class="mr-woolworths">墨尔本气象预报
+<div class="mr-weather">墨尔本气象预报
 <br>
 <a href="https://tw.news.yahoo.com/weather/%E6%BE%B3%E6%B4%B2/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E/%E5%A2%A8%E7%88%BE%E6%9C%AC-1103816/">点击这里打开链接</a>
 </div>
@@ -55,11 +55,21 @@ text-align:center;
 font-size:30px;
 }
 
+.mr-weather{
+width:300px;
+height:100px;
+padding: auto;
+background:#1589FF;
+color:red;
+margin:50px;
+font-size:25px;
+}
+
 .mr-woolworths{
 width:300px;
 height:100px;
 padding: auto;
-background:red;
+background:#54C571;
 color:white;
 margin:50px;
 font-size:25px;
