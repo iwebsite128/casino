@@ -2,6 +2,8 @@
 
 <body>
 
+<img src="flinders.jpg" height="100" width="100">
+
 <div id="mr-content">
 <div class="mr-title">欢迎来到澳洲华人资讯网</div>
 <div class="mr-weather">墨尔本气象预报
@@ -38,7 +40,7 @@
 <a href="https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19">点击这里打开链接</a>
 </div>
 
-<img src="flinders.jpg" height="100" width="100">
+
 
 <style>
 
