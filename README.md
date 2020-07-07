@@ -14,9 +14,9 @@
 <img src="flinders4.jpg" height="200" width="200" align="middle">
 <img src="flinders5.jpg" height="200" width="200" align="middle">
 
-<div class="mr-weather"> ABC中文 | 新冠疫情特别报道
+<div class="mr-weather"> 维多利亚省lockdown特别报道
 <br>
-<a href="https://www.abc.net.au/news/chinese/">点击这里打开链接</a>
+<a href="https://www.heraldsun.com.au/coronavirus/tower-control-worries-mount-border-closure-a-blow-to-tourism/news-story/1b3ea10d034fb01cd125aaf66082ce11">点击这里打开链接</a>
 </div>
 <div class="mr-woolworths">woolworths超市官方网站
 <br>
