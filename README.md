@@ -2,6 +2,8 @@
 
 <body>
 
+alert("您好，欢迎光临")
+
 <div id="mr-content">
 <div class="mr-title">欢迎来到澳洲华人资讯网
 </div>
