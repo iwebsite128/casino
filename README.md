@@ -14,9 +14,9 @@
 <img src="flinders4.jpg" height="200" width="200" align="middle">
 <img src="flinders5.jpg" height="200" width="200" align="middle">
 
-<div class="mr-weather">墨尔本气象预报
+<div class="mr-weather"> ABC中文 | 新冠疫情特别报道
 <br>
-<a href="https://tw.news.yahoo.com/weather/%E6%BE%B3%E6%B4%B2/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E/%E5%A2%A8%E7%88%BE%E6%9C%AC-1103816/">点击这里打开链接</a>
+<a href="https://www.abc.net.au/news/chinese/">点击这里打开链接</a>
 </div>
 <div class="mr-woolworths">woolworths超市官方网站
 <br>
