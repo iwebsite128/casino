@@ -186,7 +186,7 @@ font-size:20px;
 .mr-scandia{
 position: relative;
 left:50px;
-bottom:300px;
+bottom:500px;
 width:300px;
 height:100px;
 padding: auto;
