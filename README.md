@@ -43,9 +43,9 @@
 <a href="https://www.target.com.au/">点击这里打开链接</a>
 </div>
 
-<div class="mr-kmart">kmart官网
+<div class="mr-kmart">Bunnings Indoor & Outdoor Woodfire Heaters系列:
 <br>
-<a href="https://www.kmart.com.au/">点击这里打开链接</a>
+<a href="https://www.bunnings.com.au/our-range/brands/s/scandia/">点击这里打开链接</a>
 </div>
 
 <div class="mr-covid19">维省疫情地区分布图：
@@ -86,7 +86,7 @@ padding: auto;
 background:#1589FF;
 color:white;
 margin:50px;
-font-size:25px;
+font-size:20px;
 }
 
 .mr-covid19{
@@ -176,7 +176,7 @@ padding: auto;
 background: #FF00FF;
 color:white;
 margin:50px;
-font-size:25px;
+font-size:20px;
 }
 
 
