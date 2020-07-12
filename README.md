@@ -54,6 +54,10 @@
 </div>
 
 
+<div class="mr-scandia">Scandia Heater官网:
+<br>
+<a href="https://scandiastoves.com.au/products/traditional/heat-and-cook/heat-n-cook-radiant/">点击这里打开链接</a>
+</div>
 
 <style>
 
@@ -179,6 +183,17 @@ margin:50px;
 font-size:20px;
 }
 
-
+.mr-scandia{
+position: relative;
+left:50px;
+bottom:300px;
+width:300px;
+height:100px;
+padding: auto;
+background: #ffdb58;
+color: white;
+margin:50px;
+font-size:25px;
+}
 
 </style>
