@@ -14,9 +14,9 @@
 <img src="flinders4.jpg" height="200" width="200" align="middle">
 <img src="flinders5.jpg" height="200" width="200" align="middle">
 
-<div class="mr-weather"> 维多利亚省lockdown特别报道
+<div class="mr-weather"> Bunnings Scandia Indoor Woodfire Heater系列：
 <br>
-<a href="https://www.heraldsun.com.au/coronavirus/tower-control-worries-mount-border-closure-a-blow-to-tourism/news-story/1b3ea10d034fb01cd125aaf66082ce11">点击这里打开链接</a>
+<a href="https://www.bunnings.com.au/our-range/brands/s/scandia?facets=CategoryIdPath%3D2a021706-07d5-4648-bf26-2ea8fea049df%2CRegion_vicmetro_PriceRange%3D%241000%2B">点击这里打开链接</a>
 </div>
 <div class="mr-woolworths">woolworths超市官方网站
 <br>
