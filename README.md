@@ -38,9 +38,9 @@
 <a href="https://www.iga.com.au/catalogue/#view=catalogue2&saleId=33656&areaName=IGA%20VIC%20Supa&page=1">点击这里打开链接</a>
 </div>
 
-<div class="mr-target">target官网
+<div class="mr-target">澳洲五年庇护签证细节出炉 在港人士担心无法惠及
 <br>
-<a href="https://www.target.com.au/">点击这里打开链接</a>
+<a href="https://www.abc.net.au/chinese/2020-07-10/hongkongers-in-australia-welcome-the-safe-haven-visa/12439754">点击这里打开链接</a>
 </div>
 
 <div class="mr-kmart">Bunnings Indoor & Outdoor Woodfire Heaters系列:
@@ -167,7 +167,7 @@ padding: auto;
 background: #FFA500;
 color:white;
 margin:50px;
-font-size:25px;
+font-size:15px;
 }
 
 .mr-kmart{
