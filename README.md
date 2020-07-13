@@ -38,7 +38,7 @@
 <a href="https://www.iga.com.au/catalogue/#view=catalogue2&saleId=33656&areaName=IGA%20VIC%20Supa&page=1">点击这里打开链接</a>
 </div>
 
-<div class="mr-target">澳洲五年庇护签证细节出炉 在港人士担心无法惠及
+<div class="mr-target">【今日头条】澳洲五年庇护签证细节出炉 在港人士担心无法惠及
 <br>
 <a href="https://www.abc.net.au/chinese/2020-07-10/hongkongers-in-australia-welcome-the-safe-haven-visa/12439754">点击这里打开链接</a>
 </div>
@@ -165,7 +165,7 @@ width:300px;
 height:100px;
 padding: auto;
 background: #FFA500;
-color:white;
+color:#c21e56;
 margin:50px;
 font-size:15px;
 }
