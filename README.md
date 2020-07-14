@@ -15,6 +15,9 @@
 <div class="mr-scandia200">
 <br>
 <a href="https://www.bunnings.com.au/scandia-200-warmbrite-indoor-woodfire-heater_p3171489">Scandia 200 Warmbrite Indoor Woodfire Heater</a>
+<br>
+
+<a href="https://ozito.com.au/products/18v-pole-pruner-hedge-trimmer-kit-3-0ah/">PXC 18V POLE PRUNER & HEDGE TRIMMER</a>
 </div>
 
 <style>
