@@ -17,14 +17,6 @@
 <a href="https://www.bunnings.com.au/scandia-200-warmbrite-indoor-woodfire-heater_p3171489">Scandia 200 Warmbrite Indoor Woodfire Heater</a>
 </div>
 
-
-
-
-<div class="mr-scandia">Scandia Heater官网:
-<br>
-<a href="https://scandiastoves.com.au/products/traditional/heat-and-cook/heat-n-cook-radiant/">点击这里打开链接</a>
-</div>
-
 <style>
 
 
