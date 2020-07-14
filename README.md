@@ -3,26 +3,21 @@
 <body>
 
 <div id="mr-content">
-<div class="mr-title">欢迎来到澳洲华人资讯网
+<div class="mr-title">
 </div>
 
 <br>
 
 <img src="scandia200.webp" height="500" width="500" align="middle">
 <img src="scandia200(1).webp" height="500" width="500" align="middle">
-<img src="flinders3.jpg" height="200" width="200" align="middle">
-<img src="flinders4.jpg" height="200" width="200" align="middle">
-<img src="flinders5.jpg" height="200" width="200" align="middle">
 
-<div class="mr-weather"> Scandia 200 Warmbrite Indoor Woodfire Heater
+
+<div class="mr-weather">
 <br>
-<a href="https://www.bunnings.com.au/scandia-200-warmbrite-indoor-woodfire-heater_p3171489">点击这里打开链接</a>
+<a href="https://www.bunnings.com.au/scandia-200-warmbrite-indoor-woodfire-heater_p3171489">Scandia 200 Warmbrite Indoor Woodfire Heater</a>
 </div>
 
-<div class="mr-covid19">维省疫情地区分布图：
-<br>
-<a href="https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19">点击这里打开链接</a>
-</div>
+
 
 
 <div class="mr-scandia">Scandia Heater官网:
