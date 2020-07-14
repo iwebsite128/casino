@@ -31,9 +31,10 @@ text-align: center;
 
 .mr-scandia200{
 position: relative;
-left:90px;
-width:600px;
-height:100px;
+left:50px;
+width:800px;
+bottom:50px;
+height:auto;
 padding: auto;
 background:;
 color:white;
