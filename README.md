@@ -12,7 +12,7 @@
 <img src="scandia200(1).webp" height="500" width="500" align="middle">
 
 
-<div class="mr-weather">
+<div class="mr-scandia200">
 <br>
 <a href="https://www.bunnings.com.au/scandia-200-warmbrite-indoor-woodfire-heater_p3171489">Scandia 200 Warmbrite Indoor Woodfire Heater</a>
 </div>
@@ -22,11 +22,11 @@
 
 
 #mr-content{
-width:1200px;
+width:1000px;
 height:900px;
 background:yellow;
 border:3px solid red;
-text-align: center;
+//text-align: center;
 }
 
 .mr-flinders{
@@ -39,16 +39,16 @@ text-align:center;
 font-size:30px;
 }
 
-.mr-weather{
+.mr-scandia200{
 position: relative;
 left:90px;
-width:400px;
+width:600px;
 height:100px;
 padding: auto;
-background:#1589FF;
+background:;
 color:white;
 margin:50px;
-font-size:20px;
+font-size:30px;
 }
 
 .mr-covid19{
