@@ -22,11 +22,11 @@
 
 
 #mr-content{
-width:1000px;
+width:1200px;
 height:900px;
 background:yellow;
-//border:3px solid red;
-//text-align: center;
+border:3px solid red;
+text-align: center;
 }
 
 .mr-scandia200{
