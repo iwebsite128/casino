@@ -8,8 +8,8 @@
 
 <br>
 
-<img src="flinders.jpg" height="200" width="200" align="middle">
-<img src="vicmarket.jpg" height="200" width="200" align="middle">
+<img src="scandia200.webp" height="500" width="500" align="middle">
+<img src="scandia200(1).webp" height="500" width="500" align="middle">
 <img src="flinders3.jpg" height="200" width="200" align="middle">
 <img src="flinders4.jpg" height="200" width="200" align="middle">
 <img src="flinders5.jpg" height="200" width="200" align="middle">
