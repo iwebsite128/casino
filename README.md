@@ -8,8 +8,8 @@
 
 <br>
 
-<img src="scandia200.webp" height="500" width="500" align="middle">
-<img src="scandia200(1).webp" height="500" width="500" align="middle">
+<img src="scandia200.jpg" height="500" width="500" align="middle">
+<img src="scandia200_1_.jpg" height="500" width="500" align="middle">
 
 
 <div class="mr-scandia200">
