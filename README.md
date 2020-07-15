@@ -44,7 +44,7 @@ bottom:50px;
 height:auto;
 padding: auto;
 background:;
-color:white;
+color:red;
 margin:50px;
 font-size:30px;
 }
