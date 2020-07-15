@@ -11,7 +11,7 @@
 <div class="mr-title">欢迎来到澳洲华人资讯网
 </div>
 
-<button onclick="hello()">获取今天的日期和时间</button>
+<button class="button" onclick="hello()">获取今天的日期和时间</button>
 
 <script>
 function hello(){
@@ -65,13 +65,16 @@ alert(Date());
 
 <style>
 
+.button {
+	color: #00a86b;
+    }
 
 
 #mr-content{
 width:1200px;
 height:900px;
-background:yellow;
-border:3px solid red;
+background:white;
+border:;
 text-align: center;
 }
 
