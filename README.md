@@ -25,6 +25,11 @@ alert(Date());
 <source src="laji.mp3">
 </audio>
 
+<div class="mr-music">
+<br>
+<a href="https://iwebsite128.github.io/music/">音乐频道🎵</a>
+</div>
+
 <div class="mr-weather"> 维多利亚省lockdown特别报道
 <br>
 <a href="https://www.heraldsun.com.au/coronavirus/tower-control-worries-mount-border-closure-a-blow-to-tourism/news-story/1b3ea10d034fb01cd125aaf66082ce11">点击这里打开链接</a>
@@ -33,6 +38,7 @@ alert(Date());
 <br>
 <a href="https://www.woolworths.com.au/shop/catalogue">点击这里打开链接</a>
 </div>
+
 
 <div class="mr-coles">coles超市官方网站
 <br>
@@ -79,6 +85,18 @@ height:900px;
 background:white;
 border:;
 text-align: center;
+}
+
+.mr-music{
+position: relative;
+left:90px;
+width:900px;
+height:100px;
+padding: auto;
+background:#FC6A03;
+color:white;
+margin:50px;
+font-size:25px;
 }
 
 .mr-flinders{
