@@ -21,7 +21,7 @@ alert(Date());
 
 <br>
 
-<video src="laji.mp3" poster="flinders.jpg">
+<video src="laji.mp3">
 </video>
 
 <div class="mr-weather"> 维多利亚省lockdown特别报道
