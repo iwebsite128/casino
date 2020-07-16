@@ -21,9 +21,6 @@ alert(Date());
 
 <br>
 
-<audio controls>
-<source src="laji.mp3">
-</audio>
 
 <div class="mr-music">
 <br>
