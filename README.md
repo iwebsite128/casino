@@ -87,7 +87,7 @@ text-align: center;
 .mr-music{
 position: relative;
 left:90px;
-width:900px;
+width:850px;
 height:100px;
 padding: auto;
 background:#FC6A03;
@@ -120,7 +120,7 @@ font-size:25px;
 
 .mr-covid19{
 position: relative;
-left:600px;
+left:550px;
 bottom:1050px;
 width:400px;
 height:100px;
@@ -133,7 +133,7 @@ font-size:25px;
 
 .mr-woolworths{
 position: relative;
-left:50px;
+left:0px;
 width:300px;
 height:100px;
 padding: auto;
@@ -145,7 +145,7 @@ font-size:25px;
 
 .mr-coles{
 position: relative;
-left:400px;
+left:350px;
 bottom:150px;
 width:300px;
 height:100px;
@@ -158,7 +158,7 @@ font-size:25px;
 
 .mr-aldi{
 position: relative;
-left:750px;
+left:700px;
 bottom:300px;
 width:300px;
 height:100px;
@@ -171,7 +171,7 @@ font-size:25px;
 
 .mr-iga{
 position: relative;
-left:50px;
+left:0px;
 bottom:300px;
 width:300px;
 height:100px;
@@ -184,7 +184,7 @@ font-size:25px;
 
 .mr-target{
 position: relative;
-left:400px;
+left:350px;
 bottom:450px;
 width:300px;
 height:100px;
@@ -197,7 +197,7 @@ font-size:25px;
 
 .mr-kmart{
 position: relative;
-left:750px;
+left:700px;
 bottom:600px;
 width:300px;
 height:100px;
