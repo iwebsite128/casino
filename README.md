@@ -21,7 +21,7 @@ alert(Date());
 
 <br>
 
-<video src="laji.mp3" poster="flinder.jpg">
+<video src="laji.mp3" poster="flinders.jpg">
 
 </video>
 
