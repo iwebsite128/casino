@@ -86,8 +86,8 @@ text-align: center;
 
 .mr-music{
 position: relative;
-left:90px;
-width:850px;
+left:50px;
+width:900px;
 height:100px;
 padding: auto;
 background:#FC6A03;
@@ -108,7 +108,7 @@ font-size:30px;
 
 .mr-weather{
 position: relative;
-left:90px;
+left:50px;
 width:400px;
 height:100px;
 padding: auto;
