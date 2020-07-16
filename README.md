@@ -27,9 +27,9 @@ alert(Date());
 <a href="https://iwebsite128.github.io/music/">音乐频道🎵</a>
 </div>
 
-<div class="mr-weather"> 维多利亚省lockdown特别报道
+<div class="mr-stage4">
 <br>
-<a href="https://www.heraldsun.com.au/coronavirus/tower-control-worries-mount-border-closure-a-blow-to-tourism/news-story/1b3ea10d034fb01cd125aaf66082ce11">点击这里打开链接</a>
+<a href="https://www.vic.gov.au/coronavirus-covid-19-restrictions-victoria">维多利亚州4级封锁最新消息</a>
 </div>
 <div class="mr-woolworths">woolworths超市官方网站
 <br>
@@ -62,9 +62,9 @@ alert(Date());
 <a href="https://www.kmart.com.au/">点击这里打开链接</a>
 </div>
 
-<div class="mr-covid19">维省疫情地区分布图：
+<div class="mr-covid19">
 <br>
-<a href="https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19">点击这里打开链接</a>
+<a href="https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19">维省疫情地区分布图</a>
 </div>
 
 
@@ -84,17 +84,6 @@ border:;
 text-align: center;
 }
 
-.mr-music{
-position: relative;
-left:50px;
-width:900px;
-height:100px;
-padding: auto;
-background:#FC6A03;
-color:white;
-margin:50px;
-font-size:25px;
-}
 
 .mr-flinders{
 position: relative;
@@ -106,7 +95,7 @@ text-align:center;
 font-size:30px;
 }
 
-.mr-weather{
+.mr-stage4{
 position: relative;
 left:50px;
 width:400px;
@@ -125,7 +114,19 @@ bottom:1050px;
 width:400px;
 height:100px;
 padding: auto;
-background: #9400D3;
+background: #1589FF;
+color:white;
+margin:50px;
+font-size:25px;
+}
+
+.mr-music{
+position: relative;
+left:50px;
+width:900px;
+height:100px;
+padding: auto;
+background:#FC6A03;
 color:white;
 margin:50px;
 font-size:25px;
@@ -133,7 +134,7 @@ font-size:25px;
 
 .mr-woolworths{
 position: relative;
-left:0px;
+left:50px;
 width:300px;
 height:100px;
 padding: auto;
@@ -158,7 +159,7 @@ font-size:25px;
 
 .mr-aldi{
 position: relative;
-left:700px;
+left:650px;
 bottom:300px;
 width:300px;
 height:100px;
@@ -171,7 +172,7 @@ font-size:25px;
 
 .mr-iga{
 position: relative;
-left:0px;
+left:50px;
 bottom:300px;
 width:300px;
 height:100px;
@@ -197,7 +198,7 @@ font-size:25px;
 
 .mr-kmart{
 position: relative;
-left:700px;
+left:650px;
 bottom:600px;
 width:300px;
 height:100px;
