@@ -21,9 +21,9 @@ alert(Date());
 
 <br>
 
-<audio src="laji.mp3">
+<video src="laji.mp3">
 abc
-</audio>
+</video>
 
 <div class="mr-weather"> 维多利亚省lockdown特别报道
 <br>
